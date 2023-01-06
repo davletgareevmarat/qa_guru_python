@@ -1,1 +1,3 @@
-# qa_guru_python
+# Проект -  qa_guru_python
+
+Привет, мир!
